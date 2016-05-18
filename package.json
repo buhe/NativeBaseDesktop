@@ -1,6 +1,6 @@
 {
-  "name": "native-base",
-  "description": "The missing piece of React Native",
+  "name": "native-base-desktop",
+  "description": "The missing piece of React Native Desktop",
   "version": "0.3.1",
   "private": false,
   "dependencies": {
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/GeekyAnts/NativeBase.git"
+    "url": "https://github.com/buhe/NativeBaseDesktop.git"
   },
   "main": "index.js"
 }
