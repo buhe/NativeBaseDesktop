@@ -1,6 +1,6 @@
 'use strict';
 
-var React = require('react-native');
+var React = require('react-native-desktop');
 var { StyleSheet, Text, View, TouchableOpacity, Dimensions, Animated, } = React;
 var deviceWidth = Dimensions.get('window').width;
 

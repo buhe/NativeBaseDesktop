@@ -2,7 +2,7 @@
 'use strict';
 
 import React from 'react';
-import {ScrollView} from 'react-native';
+import {ScrollView} from 'react-native-desktop';
 import NativeBaseComponent from '../Base/NativeBaseComponent';
 import computeProps from '../../Utils/computeProps';
 

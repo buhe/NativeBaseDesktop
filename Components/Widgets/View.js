@@ -2,7 +2,7 @@
 'use strict';
 
 import React from 'react';
-import {View} from 'react-native';
+import {View} from 'react-native-desktop';
 import NativeBaseComponent from '../Base/NativeBaseComponent';
 
 

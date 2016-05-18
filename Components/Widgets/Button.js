@@ -2,7 +2,7 @@
 'use strict';
 
 import React from 'react';
-import { Text, TouchableOpacity } from 'react-native';
+import { Text, TouchableOpacity } from 'react-native-desktop';
 import NativeBaseComponent from '../Base/NativeBaseComponent';
 import computeProps from '../../Utils/computeProps';
 import Icon from './Icon';

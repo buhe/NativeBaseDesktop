@@ -2,7 +2,7 @@
 'use strict';
 
 import React from 'react';
-import {Text} from 'react-native';
+import {Text} from 'react-native-desktop';
 import NativeBaseComponent from '../Base/NativeBaseComponent';
 import computeProps from '../../Utils/computeProps';
 
@@ -16,7 +16,7 @@ export default class BadgeNB extends NativeBaseComponent {
             fontSize: this.getTheme().fontSizeBase,
             backgroundColor: this.props.primary ? this.getTheme().brandPrimary : this.props.success ? this.getTheme().brandSuccess :
             this.props.info ? this.getTheme().brandInfo : this.props.warning ? this.getTheme().brandWarning :
-            this.props.danger ? this.getTheme().brandDanger : this.getTheme().badgeBg,              
+            this.props.danger ? this.getTheme().brandDanger : this.getTheme().badgeBg,
             padding: 4,
             alignSelf: 'flex-start',
             borderRadius: 13,

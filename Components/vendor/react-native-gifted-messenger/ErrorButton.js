@@ -1,4 +1,4 @@
-import React, {View, Text, TouchableHighlight, StyleSheet} from 'react-native';
+import React, {View, Text, TouchableHighlight, StyleSheet} from 'react-native-desktop';
 import GiftedSpinner from 'react-native-gifted-spinner';
 
 let styles = StyleSheet.create({

@@ -4,7 +4,7 @@
 */
 'use strict';
 
-var StyleSheet = require('react-native').StyleSheet;
+var StyleSheet = require('react-native-desktop').StyleSheet;
 var secondary = require('../../Styles/variable').brandSecondary
 
 var styles = StyleSheet.create({

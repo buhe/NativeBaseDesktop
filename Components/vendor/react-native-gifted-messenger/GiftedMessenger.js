@@ -1,6 +1,6 @@
 'use strict';
 
-var React = require('react-native');
+var React = require('react-native-desktop');
 import Message from './Message';
 var GiftedSpinner = require('react-native-gifted-spinner');
 var {

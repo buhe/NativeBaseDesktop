@@ -1,4 +1,4 @@
-import React, {Text, View, Animated, Image, StyleSheet} from 'react-native';
+import React, {Text, View, Animated, Image, StyleSheet} from 'react-native-desktop';
 
 let styles = StyleSheet.create({
   bubble: {
