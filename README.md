@@ -77,3 +77,8 @@ Go through [NativeBase Docs](http://nativebase.io/documentation) to play with Na
 ####
 # Website
 [http://nativebase.io/](http://nativebase.io/)
+
+#TODO List of React-Native-Desktop
+- [ ] Text backgroupcolor
+- [ ] Icon Test
+- [ ] Input Style
