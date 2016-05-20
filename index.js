@@ -18,12 +18,12 @@ import H1 from './Components/Widgets/H1';
 import H2 from './Components/Widgets/H2';
 import H3 from './Components/Widgets/H3';
 import View from './Components/Widgets/View';
-import Input from './Components/Widgets/Input';
+import Input from './Components/Widgets/Input';  //TODO Input style
 import InputGroup from './Components/Widgets/InputGroup';
-import Icon from './Components/Widgets/Icon';
+import Icon from './Components/Widgets/Icon';//TODO test
 import Thumbnail from './Components/Widgets/Thumbnail';
 import Card from './Components/Widgets/Card';
-import Badge from './Components/Widgets/Badge';
+import Badge from './Components/Widgets/Badge';//TODO backgroudcolor
 
 module.exports = {
 	Header: Header,
